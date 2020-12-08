@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on P3N</title>
+    <link>https://p3n.pensplace.co.uk/categories/</link>
+    <description>Recent content in Categories on P3N</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2020 16:12:47 +0100</lastBuildDate><atom:link href="https://p3n.pensplace.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Room Adventures</title>
+      <link>https://p3n.pensplace.co.uk/categories/big-room-adventures/</link>
+      <pubDate>Mon, 01 Jun 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/big-room-adventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://p3n.pensplace.co.uk/categories/music/</link>
+      <pubDate>Mon, 01 Jun 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nu-Disco</title>
+      <link>https://p3n.pensplace.co.uk/categories/nu-disco/</link>
+      <pubDate>Mon, 01 Jun 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/nu-disco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TechHouse</title>
+      <link>https://p3n.pensplace.co.uk/categories/techhouse/</link>
+      <pubDate>Fri, 01 May 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/techhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://p3n.pensplace.co.uk/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://p3n.pensplace.co.uk/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://p3n.pensplace.co.uk/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
