@@ -5,13 +5,40 @@
     <link>https://music.pensplace.co.uk/categories/</link>
     <description>Recent content in Categories on P3N</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Dec 2020 16:12:47 +0100</lastBuildDate><atom:link href="https://music.pensplace.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 16:12:47 +0100</lastBuildDate><atom:link href="https://music.pensplace.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big Room Adventures</title>
       <link>https://music.pensplace.co.uk/categories/big-room-adventures/</link>
-      <pubDate>Wed, 02 Dec 2020 16:12:47 +0100</pubDate>
+      <pubDate>Fri, 18 Dec 2020 16:12:47 +0100</pubDate>
       
       <guid>https://music.pensplace.co.uk/categories/big-room-adventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://music.pensplace.co.uk/categories/music/</link>
+      <pubDate>Fri, 18 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://music.pensplace.co.uk/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trance</title>
+      <link>https://music.pensplace.co.uk/categories/trance/</link>
+      <pubDate>Fri, 18 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://music.pensplace.co.uk/categories/trance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uplifting Trance</title>
+      <link>https://music.pensplace.co.uk/categories/uplifting-trance/</link>
+      <pubDate>Fri, 18 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://music.pensplace.co.uk/categories/uplifting-trance/</guid>
       <description></description>
     </item>
     
@@ -21,15 +48,6 @@
       <pubDate>Wed, 02 Dec 2020 16:12:47 +0100</pubDate>
       
       <guid>https://music.pensplace.co.uk/categories/house/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://music.pensplace.co.uk/categories/music/</link>
-      <pubDate>Wed, 02 Dec 2020 16:12:47 +0100</pubDate>
-      
-      <guid>https://music.pensplace.co.uk/categories/music/</guid>
       <description></description>
     </item>
     
@@ -84,15 +102,6 @@
       <pubDate>Tue, 25 Aug 2020 16:12:47 +0100</pubDate>
       
       <guid>https://music.pensplace.co.uk/categories/90s-classics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trance</title>
-      <link>https://music.pensplace.co.uk/categories/trance/</link>
-      <pubDate>Tue, 25 Aug 2020 16:12:47 +0100</pubDate>
-      
-      <guid>https://music.pensplace.co.uk/categories/trance/</guid>
       <description></description>
     </item>
     

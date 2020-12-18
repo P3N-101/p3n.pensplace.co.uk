@@ -3,7 +3,7 @@ title: "Big Room Adventures Trance YearBook 20"
 date: 2020-12-18T16:12:47+01:00
 
 featuredImage: ""
-categories: ['Music','Big Room Adventures','Trance','Uplifting Trance"]
+categories: ['Music','Big Room Adventures','Trance','Uplifting Trance']
 tags: ['Bigroom Adventures', 'Trance']
 
 # Set your audio url for
