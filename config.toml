@@ -116,11 +116,13 @@ disqusShortname = ""
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
       { link = "https://twitter.com/P3nf0ld", icon = "fab fa-twitter" },
+      { link = "https://www.mixcloud.com/p3nf0ld/", icon = "fab fa-mixcloud" },
+      { link = "https://soundcloud.com/user-183879857", icon = "fab fa-soundcloud" }
     ]
 
     # credits line configuration
     copyrightBy = "by P3N"
-    copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
+    copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2020"
     copyrightUrl = ""
     creditsText = ""
