@@ -24,7 +24,9 @@
             <div class="titles">
                 <h3 class="title">
                     <a href="{{ .Site.BaseURL | relLangURL }}">
-                        {{ .Site.Title | default "My cool new blog" }}
+                      
+                            <img src="{{ .Site.Params.customLogo | relURL }}" width="100px" alt="">
+                        
                     </a>
                 </h3>
 
