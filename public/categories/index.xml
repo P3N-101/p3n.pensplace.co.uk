@@ -5,22 +5,49 @@
     <link>https://music.pensplace.co.uk/categories/</link>
     <description>Recent content in Categories on P3N</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 Dec 2020 16:12:47 +0100</lastBuildDate><atom:link href="https://music.pensplace.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 00:12:47 +0100</lastBuildDate><atom:link href="https://music.pensplace.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Big Room Adventures</title>
-      <link>https://music.pensplace.co.uk/categories/big-room-adventures/</link>
-      <pubDate>Fri, 18 Dec 2020 16:12:47 +0100</pubDate>
+      <title>Dark</title>
+      <link>https://music.pensplace.co.uk/categories/dark/</link>
+      <pubDate>Sun, 24 Sep 2023 00:12:47 +0100</pubDate>
       
-      <guid>https://music.pensplace.co.uk/categories/big-room-adventures/</guid>
+      <guid>https://music.pensplace.co.uk/categories/dark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melodic House &amp; Techno</title>
+      <link>https://music.pensplace.co.uk/categories/melodic-house-techno/</link>
+      <pubDate>Sun, 24 Sep 2023 00:12:47 +0100</pubDate>
+      
+      <guid>https://music.pensplace.co.uk/categories/melodic-house-techno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
       <link>https://music.pensplace.co.uk/categories/music/</link>
-      <pubDate>Fri, 18 Dec 2020 16:12:47 +0100</pubDate>
+      <pubDate>Sun, 24 Sep 2023 00:12:47 +0100</pubDate>
       
       <guid>https://music.pensplace.co.uk/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive House</title>
+      <link>https://music.pensplace.co.uk/categories/progressive-house/</link>
+      <pubDate>Sun, 24 Sep 2023 00:12:47 +0100</pubDate>
+      
+      <guid>https://music.pensplace.co.uk/categories/progressive-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Room Adventures</title>
+      <link>https://music.pensplace.co.uk/categories/big-room-adventures/</link>
+      <pubDate>Fri, 18 Dec 2020 16:12:47 +0100</pubDate>
+      
+      <guid>https://music.pensplace.co.uk/categories/big-room-adventures/</guid>
       <description></description>
     </item>
     
@@ -66,15 +93,6 @@
       <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
       
       <guid>https://music.pensplace.co.uk/categories/melodic-house-and-techno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Progressive House</title>
-      <link>https://music.pensplace.co.uk/categories/progressive-house/</link>
-      <pubDate>Sun, 25 Oct 2020 15:12:47 +0100</pubDate>
-      
-      <guid>https://music.pensplace.co.uk/categories/progressive-house/</guid>
       <description></description>
     </item>
     
